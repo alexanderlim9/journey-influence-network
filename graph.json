@@ -5,10 +5,18 @@
     {"id": "NU College of Computer and Information Science", "group": 2},
     {"id": "Two Six Labs", "group": 3},
     {"id": "Matt Carroll", "group": 1},
+    {"id": "Russell Goldenberg", "group": 1},
+    {"id": "Yan Wu", "group": 1},
     {"id": "Dan Zedek", "group": 1},
     {"id": "Aleszu Bajak", "group": 1},
     {"id": "Michelle Borkin", "group": 2},
-    {"id": "Robert Gove", "group": 3}
+    {"id": "Robert Gove", "group": 3},
+    {"id": "Patrick Dwyer", "group": 3},
+    {"id": "Tony Wong", "group": 3},
+    {"id": "Scott Allen", "group": 4},
+    {"id": "The Boston Globe", "group": 4},
+    {"id": "Paula Bouknight", "group": 4},
+    {"id": "Heather Hopp-Bruce", "group": 4}
   ],
   "links": [
     {"source": "Alex", "target": "NU Grad School of Journalism", "value": 1},
@@ -17,7 +25,15 @@
     {"source": "NU Grad School of Journalism", "target": "Matt Carroll", "value": 1},
     {"source": "NU Grad School of Journalism", "target": "Dan Zedek", "value": 1},
     {"source": "NU Grad School of Journalism", "target": "Aleszu Bajak", "value": 1},
+    {"source": "Matt Carroll", "target": "Russell Goldenberg", "value": 1},
+    {"source": "Matt Carroll", "target": "Yan Wu", "value": 1},
+    {"source": "Matt Carroll", "target": "Scott Allen", "value": 1},
+    {"source": "Scott Allen", "target": "The Boston Globe", "value": 1},
+    {"source": "The Boston Globe", "target": "Paula Bouknight", "value": 1},
+    {"source": "The Boston Globe", "target": "Heather Hopp-Bruce", "value": 1},
     {"source": "NU College of Computer and Information Science", "target": "Michelle Borkin", "value": 1},
-    {"source": "Two Six Labs", "target": "Robert Gove", "value": 1}
+    {"source": "Two Six Labs", "target": "Robert Gove", "value": 1},
+    {"source": "Two Six Labs", "target": "Patrick Dwyer", "value": 1},
+    {"source": "Two Six Labs", "target": "Tony Wong", "value": 1}
   ]
 }
